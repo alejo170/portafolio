@@ -1,0 +1,322 @@
+{
+
+"$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Alejandro López Pineda",
+    "label": "Desarrollador Web Fullstack MERN",
+    "image": "https://avatars.githubusercontent.com/u/86750984?v=4",
+    "email": "alejo170@gmail.com",
+    "phone": "3155875191",
+    "url": "https://github.com/alejo170",
+    "summary": "Tecnólogo en Sistemas de Información apasionado por el desarrollo web. Actualmente me encuentro estudiando tecnología en análisis y desarrollo de software en el SENA, con el firme propósito de ampliar mis habilidades y conocimientos. Poseo una sólida capacidad para trabajar en equipo y comunicarme de manera efectiva. Siempre estoy en constante aprendizaje, manteniéndome actualizado sobre las últimas tendencias y avances en el desarrollo web.",
+    "location": {
+      "countryCode": "ES",
+      "address": "Carrera 39 # 18-75",
+      "city": "Santiago de Cali",
+      "postalCode": "",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alejandro-lopez-pineda",
+        "url": "https://www.linkedin.com/in/alejandro-lopez-pineda/"
+      },
+      {
+        "network": "Github",
+        "username": "alejo170",
+        "url": "https://github.com/alejo170"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Datasae",
+      "position": "Desarrollador web",
+      "startDate": "2022-04-30",
+      "endDate": "2022-11-30",
+      "highlights": [],
+      "summary": "Desarrollé formularios interactivos en ExtJS para entornos educativos. Participé en el desarrollo de la funciones básicas en las bases de datos, tales como crear, leer, actualizar, buscar y eliminar. Este desarrollo lo realicé en PHP y PostgreSQL. Realicé la configuración entre el front-end: ExtJS y el back-end: PHP y PostgreSQL. Diseñé y modifiqué consultas en PostgreSQL para la visualización de estadisticas.",
+      "location": "Cali, Valle del Cauca, Colombia"
+    },
+    {
+      "name": "UT-ICOM",
+      "position": "Técnico de soporte",
+      "startDate": "2019-01-31",
+      "endDate": "2022-08-31",
+      "highlights": [],
+      "summary": "Era responsable de la instalación, actualización y configuración de equipos nuevos. Apoyé en el proceso de mantenimiento de equipos de computo y en el respaldo de la información. Realicé mantenimiento a impresoras escáner, entre otros. Brindé asistencia en la solución de problemas tanto presencial como de forma remota.",
+      "location": "Cali, Valle del Cauca, Colombia"
+    },
+    {
+      "name": "Priceless Colombia S.A.S",
+      "position": "Técnico de soporte",
+      "startDate": "2017-01-31",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "summary": "Era responsable de la instalación, actualización y configuración de equipos nuevos. Apoyé en el proceso de mantenimiento de equipos de computo y en el respaldo de la información. Realicé mantenimiento a impresoras escáner, entre otros. Brindé asistencia en la solución de problemas tanto presencial como de forma remota.",
+      "location": "Cali, Valle del Cauca, Colombia"
+    },
+    {
+      "name": "INTERCOL.",
+      "position": "Técnico de soporte",
+      "startDate": "2013-08-31",
+      "endDate": "2016-03-31",
+      "highlights": [],
+      "summary": "Fui responsable de la instalación, actualización y configuración de equipos nuevos. Configuré servidores con Windows Server para el respaldo de la información. Realicé mantenimiento a equipos de computo, impresoras, escáner, entre otros. Brindé asistencia en la solución de problemas. Creé los correos corporativos para el área administrativa. Configuré en todos los equipos, el correo de Microsoft Outlook. Implementé un sistema de mesa de ayuda para recopilar incidentes y mejorar el proceso de soporte",
+      "url": "https://www.linkedin.com/company/intercol-s-a/",
+      "location": "Yumbo, Valle del Cauca, Colombia"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Servicio Nacional de Aprendizaje (SENA)",
+      "area": "",
+      "studyType": "Tecnólogo en análisis y desarrollo de software",
+      "startDate": "2022-11-30",
+      "endDate": "2025-02-28",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Escalab | Developers on Demand",
+      "area": "",
+      "studyType": "FullStack MERN",
+      "startDate": "2022-12-31",
+      "endDate": "2023-06-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad de Antioquia",
+      "area": "",
+      "studyType": "Habilidades en Programacion con Enfasis en Desarrollo de Aplicaciones Web",
+      "startDate": "2021-06-30",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Servicio Nacional de Aprendizaje (SENA)",
+      "area": "",
+      "studyType": "Técnico en sistemas",
+      "startDate": "2014-01-31",
+      "endDate": "2014-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Universidad del Valle (CO)",
+      "area": "",
+      "studyType": "Tecnólogo en Sistemas de Información",
+      "startDate": "2004-08-31",
+      "endDate": "2009-11-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Fundación Centro Colombiano de Estudios Profesionales",
+      "area": "",
+      "studyType": "Tecnólogo en electrónica",
+      "startDate": "1998-01-31",
+      "endDate": "2002-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fullstack MERN Developer",
+      "issuer": "Escalab | Tech Talents Hub",
+      "date": "2023-08-31",
+      "url": "https://www.credly.com/badges/5c96014e-ed85-4c4f-8841-a2c3a839cfb8/linked_in_profile"
+    },
+    {
+      "name": "Node JS Developer Advanced",
+      "issuer": "Escalab | Tech Talents Hub",
+      "date": "2023-08-31",
+      "url": "https://www.credly.com/badges/fcac48c7-5c0a-4dd9-abf0-8f813cdb364c/linked_in_profile"
+    },
+    {
+      "name": "Web Developer",
+      "issuer": "Escalab | Tech Talents Hub",
+      "date": "2023-06-30",
+      "url": "https://www.credly.com/badges/4c3fdd77-74e7-4af8-9ee4-556186b1b9e3/linked_in_profile"
+    },
+    {
+      "name": "Introducción a Full Stack con React & Node JS",
+      "issuer": "Escalab | Developers on Demand",
+      "date": "2023-03-31",
+      "url": "https://www.credly.com/badges/843fe47e-9175-4d04-b90b-e5a89bf7af70/linked_in_profile"
+    },
+    {
+      "name": "React JS Developer",
+      "issuer": "Escalab | Tech Talents Hub",
+      "date": "2023-03-31",
+      "url": "https://www.credly.com/badges/b6bd2e8e-a986-47a2-b644-e161b0918730/linked_in_profile"
+    },
+    {
+      "name": "Javascript Fundamentals.",
+      "issuer": "Escalab Academy",
+      "date": "2022-05-31",
+      "url": "https://www.credly.com/badges/5b4c4d2c-0862-4d64-ade7-66186a2989b3?source=linked_in_profile"
+    },
+    {
+      "name": "Certificación de Ingles",
+      "issuer": "EF Standard English Test (EF SET) ",
+      "date": "2022-04-30",
+      "url": "https://www.efset.org/cert/DDBJ6Q"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Next",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "es",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Inglés"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Colombia",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Proyecto React, donde se consume una api. Se muestra la descripción de Colombia, los departamentos, los sitios turísticos y los presidentes en forma de tarjetas.",
+      "highlights": [
+        "React JS"
+      ],
+      "url": "https://apicolombia.netlify.app/",
+      "isActive": "true",
+      "github": ""
+    },
+    {
+      "name": "MERNbooks",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Proyecto tipo ecommerce, donde se consume una api interna. Se muestra los libros a la venta con la siguiente información: imagen, nombre, descripción y su respectivo precio.",
+      "highlights": [
+        "HTML, CSS y JS"
+      ],
+      "url": "https://alejo170.github.io/bookstore/",
+      "isActive": "true",
+      "github": ""
+    },
+    {
+      "name": "Paises del mundo",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Proyecto donde se consume la api externa. Se muestra todos los países del mundo con la siguiente información: imagen de la bandera, población, continente, capital y un vínculo que me lleva al detalle de cada país.",
+      "highlights": [
+        "HTML, CSS y JS"
+      ],
+      "url": "https://alejo170.github.io/paisesdelmundo/",
+      "isActive": "true",
+      "github": ""
+    },
+    {
+      "name": "Sonia System",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Sistema Optimizado de Notas e Información Académica",
+      "highlights": [
+        "Next JS y PostgreSQL"
+      ],
+      "url": "https://sonia-system.vercel.app/",
+      "isActive": "true",
+      "github": ""
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
